@@ -1,4 +1,4 @@
 Workshop
 ========
 
-Materials for the Introduction to R Workshop
+Materials for the _Introduction to R_ Workshop.
